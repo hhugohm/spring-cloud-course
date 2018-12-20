@@ -9,3 +9,5 @@ STEPS
 5. Or Execute:
 * curl  http://localhost:8100/currency-converter/from/USD/to/INR/quantity/25
 * curl  http://localhost:8100/currency-converter-feign/from/USD/to/INR/quantity/25
+
+Note: If you get an error when execute http://localhost:8100/currency-converter-feign/from/USD/to/INR/quantity/25, please try to refresh.
