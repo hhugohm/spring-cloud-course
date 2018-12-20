@@ -1,7 +1,7 @@
 STEPS
 
-1. Execute application neosuniversity-config-server
-2. Execute neosuniversity-limit-service
+1. Execute neosuniversity-config-server   application 
+2. Execute neosuniversity-limit-service   application 
 3. Execute on a browser
 * http://localhost:8888/neosuniversity-config-server/qa
 * You can see the correct information profile (qa)
@@ -11,7 +11,7 @@ STEPS
 
 
 4.- The properties files are on https://github.com/hhugohm/neosuniversity-config-local.git
-*application-dev.properties
-*application-qa.properties
-*application.properties
+* application-dev.properties
+* application-qa.properties
+* application.properties
 
